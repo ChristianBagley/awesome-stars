@@ -68,6 +68,7 @@
 
 ## C 
 
+- [kext](https://github.com/osxfuse/kext) - FUSE for macOS kernel extension
 - [HID](https://github.com/NicoHood/HID) - Bring enhanced HID functions to your Arduino!
 - [hardpass-sendHID](https://github.com/girst/hardpass-sendHID) - A hardware password manager, built around a Paspberry Pi Zero and passwordstore.org
 - [genpass](https://github.com/chilicuil/genpass) - stateless password generator
@@ -292,7 +293,7 @@
 - [brackets-indent-guides](https://github.com/lkcampbell/brackets-indent-guides) - A Brackets extension to show indent guides in the code editor
 - [extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extensions and Mac OS X app
 - [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer) - Algorithm Visualizer
-- [pleasenospam](https://github.com/JoeBiellik/pleasenospam) - Temporary email service
+- [pleasenospam](https://github.com/JoeBiellik/pleasenospam) - Node.js temporary email service
 - [isomer](https://github.com/jdan/isomer) - Simple isometric graphics library for HTML5 canvas
 - [git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
 - [Chrome-Workspace](https://github.com/FreemanLou/Chrome-Workspace) - Sometimes there are tabs that are not needed immediately, but are also not important enough to be bookmarked. Workspace temporarily stores the links in one page, freeing tab space and allowing for more flexibility.
@@ -374,6 +375,7 @@
 
 ## Jupyter Notebook 
 
+- [machinelearningintro](https://github.com/cambridgecoding/machinelearningintro) - boilerplate code, scripts, modules, data for Introduction to Machine Learning with Python
 - [awesome-ipython-notebooks](https://github.com/algorithmiaio/awesome-ipython-notebooks) - 
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 
@@ -394,6 +396,8 @@
 
 ## Nimrod 
 
+- [ipsumgenera](https://github.com/dom96/ipsumgenera) - Static blog generator written in Nim
+- [nima](https://github.com/andrewvy/nima) - Static website generator in Nim
 - [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in the order of priority).
 
 ## Nix 
@@ -402,6 +406,9 @@
 
 ## Objective-C 
 
+- [framework](https://github.com/osxfuse/framework) - Objective-C-based FUSE for macOS SDK
+- [prefpane](https://github.com/osxfuse/prefpane) - FUSE for macOS preference pane
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for macOS Yosemite, El Capitan and Sierra (including Dark Mode).
 - [proof](https://github.com/joncarlmatthews/proof) - Command line utility that answers programming related questions.
 - [afloat](https://github.com/w0lfschild/afloat) - :open_file_folder: SIMBL plugin that adds useful window management commands on macOS
 - [mySIMBL](https://github.com/w0lfschild/mySIMBL) - :package: SIMBL plugin manager for macOS
@@ -678,6 +685,7 @@
 
 ## Ruby 
 
+- [motion-sourcelist-boilerplate](https://github.com/mipmip/motion-sourcelist-boilerplate) - RubyMotion boilerplate app for Mac OS X implementing a view based Source List
 - [osaka](https://github.com/basvodde/osaka) - Apple Application automation library using applescript (osascript)
 - [dug](https://github.com/chrisarcand/dug) - [D]amn yo[u], [G]mail! Easily organize your GitHub notification emails in ways Gmail filters can't.
 - [burnonce](https://github.com/shakycode/burnonce) - Disposable email
