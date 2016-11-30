@@ -184,6 +184,7 @@
 
 ## Go 
 
+- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [thyme](https://github.com/sourcegraph/thyme) - Automatically track which applications you use and for how long.
 - [just-install](https://github.com/lvillani/just-install) - The humble package installer for Windows
 - [learn](https://github.com/gyuho/learn) - learn
@@ -406,6 +407,7 @@
 
 ## Objective-C 
 
+- [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful OS X desktop automation with Lua
 - [framework](https://github.com/osxfuse/framework) - Objective-C-based FUSE for macOS SDK
 - [prefpane](https://github.com/osxfuse/prefpane) - FUSE for macOS preference pane
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for macOS Yosemite, El Capitan and Sierra (including Dark Mode).
@@ -560,6 +562,14 @@
 
 ## Python 
 
+- [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [PSpider](https://github.com/xianhu/PSpider) - simple python spider
+- [mitmAP](https://github.com/xdavidhu/mitmAP) - A python program, to create a fake AP, and sniff data.
+- [MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms
+- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
+- [OSCARf-public](https://github.com/V12-Operations/OSCARf-public) - Python tool to aid in the collection of OSINT data
 - [AutOSINT](https://github.com/bharshbarger/AutOSINT) - Tool to automate common osint tasks
 - [pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.
 - [CSC7014](https://github.com/tawrahim/CSC7014) - 
@@ -675,7 +685,6 @@
 - [Cactus](https://github.com/eudicots/Cactus) - Static site generator for designers. Uses Python and Django templates.
 - [SpoofMAC](https://github.com/feross/SpoofMAC) - :briefcase: Change your MAC address for debugging
 - [RatticWeb](https://github.com/tildaslash/RatticWeb) - Password Management for Humans
-- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [exitmap](https://github.com/NullHypothesis/exitmap) - A fast and modular scanner for Tor exit relays.
 
 ## R 
@@ -760,6 +769,7 @@
 
 ## Shell 
 
+- [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [aliasme](https://github.com/Jintin/aliasme) - A shell script to organize your alias in command line.
 - [laptop](https://github.com/thoughtbot/laptop) - A shell script which turns your macOS laptop into an awesome web development machine.
 - [devicons-shell](https://github.com/ryanoasis/devicons-shell) - :symbols: adds font icons (glyphs ★♨☢) to filetypes via bash (faux ls with icons)
