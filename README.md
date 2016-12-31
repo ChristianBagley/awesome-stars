@@ -20,6 +20,7 @@
   - [Dart](#dart)
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs lisp)
+  - [Erlang](#erlang)
   - [Go](#go)
   - [HCL](#hcl)
   - [HTML](#html)
@@ -47,6 +48,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [VimL](#viml)
   - [Xojo](#xojo)
@@ -69,6 +71,8 @@
 
 ## C 
 
+- [wren](https://github.com/munificent/wren) - The Wren Programming Language
+- [axel](https://github.com/eribertomota/axel) - light command line download accelerator
 - [anybar-cli](https://github.com/onderweg/anybar-cli) - Minimal AnyBar client written in C
 - [lsh](https://github.com/brenns10/lsh) - Simple shell implementation.  Tutorial here -&gt;
 - [kext](https://github.com/osxfuse/kext) - FUSE for macOS kernel extension
@@ -110,6 +114,7 @@
 
 ## C++ 
 
+- [swift](https://github.com/apple/swift) - The Swift Programming Language
 - [csgoGlow](https://github.com/iseekwonderful/csgoGlow) - Simple macOS CSGO glow hack
 - [miles-deep](https://github.com/ryanjay0/miles-deep) - Deep Learning Porn Video Classifier/Editor with Caffe
 - [monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -125,6 +130,12 @@
 
 ## CSS 
 
+- [magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
+- [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
+- [plt](https://github.com/steshaw/plt) - A path to Programming Language Theory enlightenment
+- [sentiment-and-emotion](https://github.com/watson-developer-cloud/sentiment-and-emotion) - AlchemyAPI's Sentiment Analysis and Emotion Analysis in one application.
+- [pismail](https://github.com/umutgokbayrak/pismail) - A disposable email service in Clojure
+- [littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
 - [jekyll-starter-project](https://github.com/adrianvalenz/jekyll-starter-project) - Super awesome starter site for Jekyll projects. Designed to just get you coding instantly.
 - [nord-atom-ui](https://github.com/NickSturgeon/nord-atom-ui) - A arctic, north-bluish clean and elegant minimal Atom UI.
 - [nvalt_custom](https://github.com/danielgolden/nvalt_custom) - Custom theme for nvALT
@@ -159,6 +170,13 @@
 
 ## Crystal 
 
+- [pipeline](https://github.com/arcage/pipeline) - Line by line text processor for crystal
+- [crystalline](https://github.com/jtomschroeder/crystalline) - A collection of containers & algorithms for the crystal programming language
+- [progress](https://github.com/askn/progress) - [==..] Progress bar for Crystal Programming Language
+- [hoop](https://github.com/0x73/hoop) - Building native OSX apps.
+- [crystal-by-example](https://github.com/askn/crystal-by-example) - Crystal By Example
+- [crystal-design-patterns](https://github.com/bthachdev/crystal-design-patterns) - Design Patterns in Crystal programming language
+- [crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [AnyBar_cr](https://github.com/davydovanton/AnyBar_cr) - Simple crystal wrapper for AnyBar
 - [equiv](https://github.com/f/equiv) - It finds equivalents of the things.
 - [awesome-crystal](https://github.com/veelenga/awesome-crystal) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
@@ -188,10 +206,18 @@
 
 ## Emacs Lisp 
 
+- [wyvern](https://github.com/wyvernlang/wyvern) - The Wyvern programming language.
 - [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
+
+## Erlang 
+
+- [awesomo](https://github.com/lk-geimfari/awesomo) - The really big list of really interesting open source projects in С, C++, Clojure, Common/Emacs Lisp, Elixir, Erlang, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala and etc.
 
 ## Go 
 
+- [disposable](https://github.com/ferhatelmas/disposable) - Disposable email domains in Golang
+- [hget](https://github.com/huydx/hget) - rocket fast, interruptable, resumable download accelerator written in golang
+- [Gorganizer](https://github.com/DiSiqueira/Gorganizer) - Organize your folders into a beautiful classified folder structure with this perfect tool
 - [anybar](https://github.com/justincampbell/anybar) - CLI and Go package for AnyBar
 - [aws-site-manager](https://github.com/oursky/aws-site-manager) - Very simple CLI to create S3 / Cloudfront Static Website
 - [Stout](https://github.com/EagerIO/Stout) - A reliable static website deploy tool
@@ -229,6 +255,12 @@
 
 ## HTML 
 
+- [coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
+- [old-ntnu-exams](https://github.com/dvikan/old-ntnu-exams) - Mostly computer science exams.
+- [mirah](https://github.com/mirah/mirah) - The Mirah Programming Language
+- [programming-language-network](https://github.com/fatiherikli/programming-language-network) - The network of programming languages
+- [alchemylanguage-nodejs](https://github.com/watson-developer-cloud/alchemylanguage-nodejs) - Alchemy Language Node.js Sample Application
+- [spam-juggler](https://github.com/hotty007/spam-juggler) - Spam-Juggler - free, quick and feature rich disposable email service
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [bookmarks](https://github.com/nrocco/bookmarks) - Personal zero-touch bookmarking app in the cloud, with full text search support.
 - [web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) - Learn basics of web design in 4 minutes
@@ -255,6 +287,7 @@
 
 ## Haskell 
 
+- [course](https://github.com/tonymorris/course) - Functional Programming Course
 - [scat](https://github.com/redelmann/scat) - Password scatterer. Eliminates password reuse by generating deterministically unique passwords for each service (website, email address, etc.), all from a single password.
 - [pwstore](https://github.com/PeterScott/pwstore) - Securely store hashed, salted passwords
 - [zerobin](https://github.com/zalora/zerobin) - Share secrets via 0bin sites running https://github.com/sametmax/0bin
@@ -279,7 +312,13 @@
 
 ## JavaScript 
 
-- [magixjs](https://github.com/etiennepinchon/magixjs) - MagiX framework
+- [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript) - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
+- [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
+- [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - Scaffold out a Chrome extension
+- [disposable](https://github.com/anishathalye/disposable) - Create a Reddit throwaway account with the click of a button!
+- [pasteye](https://github.com/shayanjm/pasteye) - Pastebin Monitoring as a Service
+- [ansible-mac](https://github.com/phillipalexander/ansible-mac) - Ansible scripts used to provision my mac
+- [magixjs](https://github.com/etiennepinchon/magixjs) - MagiXJS Framework
 - [convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 - [beaker](https://github.com/beakerbrowser/beaker) - An Experimental P2P Browser
 - [hyperline](https://github.com/NickTikhonov/hyperline) - ✨ Status line plugin for HyperTerm ✨
@@ -358,7 +397,7 @@
 - [datahub](https://github.com/datahuborg/datahub) - An experimental hosted platform (GitHub-like) for organizing, managing, sharing, collaborating, and making sense of data.
 - [ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The missing cli interactive workflow
 - [hotel-clerk](https://github.com/therealklanni/hotel-clerk) - :hotel: Convenient menubar UI for https://npmjs.org/hotel
-- [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and get local dev domains in seconds
+- [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains
 - [betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
 - [chrome-devtools-app](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app via Electron
 - [Bind](https://github.com/almonk/Bind) - A design tool for interfaces
@@ -403,6 +442,9 @@
 
 ## Jupyter Notebook 
 
+- [reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) - Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.
+- [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning" book code repository and info resource
+- [Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews) - Files for Udemy Course on Algorithms and Data Structures
 - [machinelearningintro](https://github.com/cambridgecoding/machinelearningintro) - boilerplate code, scripts, modules, data for Introduction to Machine Learning with Python
 - [awesome-ipython-notebooks](https://github.com/algorithmiaio/awesome-ipython-notebooks) - 
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
@@ -424,6 +466,7 @@
 
 ## Nimrod 
 
+- [emerald](https://github.com/flyx/emerald) - HTML5 templating engine for Nimrod
 - [anybar.nim](https://github.com/rgv151/anybar.nim) - Nim client for Anybar
 - [ipsumgenera](https://github.com/dom96/ipsumgenera) - Static blog generator written in Nim
 - [commandeer](https://github.com/fenekku/commandeer) - Take command of your command line in Nim
@@ -479,6 +522,26 @@
 
 ## Others 
 
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Front-end-Interview-questions](https://github.com/hawx1993/Front-end-Interview-questions) - a collection about front-end development interview questions and answers
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
+- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
+- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+- [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
+- [curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
+- [getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech major.
+- [lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
+- [swift-style-guide](https://github.com/github/swift-style-guide) - Style guide & coding conventions for Swift projects
+- [og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — a guide for humans
+- [CS-Literature-of-the-Day](https://github.com/tylertreat/CS-Literature-of-the-Day) - A curated list of computer science literature, updated daily.
+- [cs-interview-guide](https://github.com/schmatz/cs-interview-guide) - A short guide on preparing for computer science interviews
+- [computer-science](https://github.com/open-source-society/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [free-programming-books](https://github.com/vhf/free-programming-books) - :books: Freely available programming books
+- [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
+- [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
+- [elixir-getting-started](https://github.com/potatogopher/elixir-getting-started) - PDF, MOBI, EPUB documents for Elixir's Getting Started tutorial.
+- [awesome-erlang](https://github.com/drobakowski/awesome-erlang) - A curated list of awesome Erlang libraries, resources and shiny things.
 - [awesome-books](https://github.com/mundimark/awesome-books) - A collection of awesome books (handwritten guides, auto-build almanacs w/ open data, etc.) in wikitext
 - [awesome-jekyll-themes](https://github.com/planetjekyll/awesome-jekyll-themes) - A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
 - [awesome-synthetic-biology](https://github.com/websemantics/awesome-synthetic-biology) - A curated list of Synthetic Biology / Genetic Engineering projects, articles and resources. The main idea is that everyone can contribute here, so we can have a central repository of informations about this fascinating subject that we all can keep up-to-date.
@@ -568,13 +631,14 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [Hidden-Blog](https://github.com/hellais/Hidden-Blog) - Setting up a Blog as  Tor Hidden Service
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
-- [free-programming-books](https://github.com/vhf/free-programming-books) - :books: Freely available programming books
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [osx](https://github.com/bkuhlmann/osx) - Shell scripts for automated OSX machine setup.
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
 
 ## PHP 
 
+- [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
+- [HRCloud2](https://github.com/zelon88/HRCloud2) - A full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool & More!
 - [1000ideas](https://github.com/napolux/1000ideas) - A github repository for 1000 free ideas
 - [synoOpenload](https://github.com/TheNitek/synoOpenload) - 
 - [awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
@@ -601,6 +665,21 @@
 
 ## Python 
 
+- [AlfredWorkflow.com](https://github.com/hzlzh/AlfredWorkflow.com) - A public Collection of Alfred Workflows.
+- [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
+- [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
+- [curriculum](https://github.com/opsschool/curriculum) - Ops School Curriculum
+- [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+- [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - A practical guide to securing macOS.
+- [RunestoneServer](https://github.com/RunestoneInteractive/RunestoneServer) - Interactive books for computer science
+- [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+- [ThrowAwayCreator](https://github.com/totu/ThrowAwayCreator) - Python script for easily creating throwaway accounts with random username, password and email
+- [Account-Generation](https://github.com/WilliamPLamb/Account-Generation) - Generate a list of throwaway accounts with usernames and passwords
+- [dumpmon](https://github.com/jordan-wright/dumpmon) - Information Dump Monitor
+- [pyaxel](https://github.com/sivel/pyaxel) - Multithreaded Download accelerator with resume support implemented in python
+- [downloadAccelerator](https://github.com/dro248/downloadAccelerator) - A little, threaded download accelerator written in Python.
+- [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [widely](https://github.com/zeckalpha/widely) - Static Site as a Service using AWS S3
 - [logic-gates-circuits](https://github.com/praetore/logic-gates-circuits) - Simulating logic gates and circuits in Python
 - [porn_sieve](https://github.com/PornSieve/porn_sieve) - Improve your masturbation efficiency!
@@ -636,7 +715,7 @@
 - [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven CRUD Admin dashboards and RESTFUL API's with Python, Flask,  SQLALchemy, Javascript/Angularjs and Bootstrap 3
 - [gpodder](https://github.com/gpodder/gpodder) - The gPodder podcast client, versions 2.x (two branch) and 3.x (master branch).
 - [dodo](https://github.com/atmb4u/dodo) - Task Management for Hackers
-- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.28.1, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
+- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.29, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
 - [TaskPaper-Workflow](https://github.com/krid78/TaskPaper-Workflow) - my personal task paper workflow
 - [pasteminer](https://github.com/lbragues/pasteminer) - Find useful stuff in pastebin
 - [xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell
@@ -700,7 +779,7 @@
 - [armory-pass](https://github.com/mweissbacher/armory-pass) - Password manager for USB Armory
 - [senv](https://github.com/tly1980/senv) - Secure env. Load your environment variables from keychain (Mac only for now)
 - [passpie](https://github.com/marcwebbie/passpie) - :closed_lock_with_key: Multiplatform command-line password manager
-- [rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated Mac os x Python Statusbar apps
+- [rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps
 - [evernote-publisher](https://github.com/jaytaylor/evernote-publisher) - Evernote collection system which organizes notes into a flexible format which allows for easy publishing.
 - [p](https://github.com/colinta/p) - Command line password manager written in Python using SQLite
 - [auth](https://github.com/mmirate/auth) - gpg-based, automation-friendly password manager.
@@ -716,7 +795,7 @@
 - [ctSESAM-python](https://github.com/pinae/ctSESAM-python) - This is the command line Python version of the c't password manager.
 - [gpgchat](https://github.com/mlsteele/gpgchat) - Simple chat service that sends PGP encrypted messages.
 - [Nani](https://github.com/Draps-/Nani) - A Terminal Based Software Development Question & Answer Aggregator
-- [howdoi](https://github.com/gleitz/howdoi) - howdoi - instant coding answers via the command line
+- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [upass](https://github.com/Kwpolska/upass) - Console UI for pass.
 - [bigchaindb](https://github.com/bigchaindb/bigchaindb) - BigchainDB is a scalable blockchain database
 - [security-growler](https://github.com/pirate/security-growler) - :satellite: A Mac menubar app that notifies you whenever SSH, VNC, sudo, or other auth events occur.
@@ -736,6 +815,9 @@
 
 ## Ruby 
 
+- [akiva](https://github.com/thebigdb/akiva) - Akiva is a simple natural-language-processing, question-answering, artificial intelligence.
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
+- [Scumblr](https://github.com/Netflix/Scumblr) - Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results
 - [motion-sourcelist-boilerplate](https://github.com/mipmip/motion-sourcelist-boilerplate) - RubyMotion boilerplate app for Mac OS X implementing a view based Source List
 - [osaka](https://github.com/basvodde/osaka) - Apple Application automation library using applescript (osascript)
 - [dug](https://github.com/chrisarcand/dug) - [D]amn yo[u], [G]mail! Easily organize your GitHub notification emails in ways Gmail filters can't.
@@ -790,13 +872,13 @@
 
 ## Rust 
 
+- [helix](https://github.com/rustbridge/helix) - Ruby and Rust, sitting in a tree
 - [rust_anybar](https://github.com/urschrei/rust_anybar) - A command-line Anybar client written in Rust
 - [wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
 - [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
 - [dpw](https://github.com/faern/dpw) - A deterministic password manager
 - [imag](https://github.com/matthiasbeyer/imag) - imag - Text based personal information management suite
 - [limonite](https://github.com/qmx/limonite) - 
-- [helix](https://github.com/rustbridge/helix) - Ruby and Rust, sitting in a tree
 - [rooster](https://github.com/conradkleinespel/rooster) - A simple password manager for geeks.
 - [rustix](https://github.com/dezgeg/rustix) - Unix command line tools in Rust.
 - [theca](https://github.com/rolandshoemaker/theca) - a simple, fully featured command line note taking tool written in Rust
@@ -814,6 +896,11 @@
 
 ## Shell 
 
+- [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker, with real DevOps practice!
+- [mac-dev-setup](https://github.com/nicolashery/mac-dev-setup) - A beginner's guide to setting up a development environment on Mac OS X
+- [m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
+- [pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [pyenv](https://github.com/yyuu/pyenv) - Simple Python version management
 - [algo](https://github.com/trailofbits/algo) - 1-click IPSEC VPN in the Cloud
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [aliasme](https://github.com/Jintin/aliasme) - A shell script to organize your alias in command line.
@@ -870,6 +957,7 @@
 
 ## Swift 
 
+- [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) - A self-taught project to learn Swift.
 - [Windah](https://github.com/RedHandTech/Windah) - OSX Window Manager
 - [hacking-mac-os](https://github.com/shterrett/hacking-mac-os) - 
 - [QBlocker](https://github.com/steve228uk/QBlocker) - :no_entry_sign: Stop accidentally quitting apps
@@ -890,6 +978,10 @@
 - [Sample-OSX-MenuBarApp](https://github.com/arslanbilal/Sample-OSX-MenuBarApp) - OS X: Menus and Popovers in Menu Bar Apps
 - [MacMenuAppDemo](https://github.com/PatrickAdams/MacMenuAppDemo) - Mac Menu Bar App written in Swift
 - [Heimdall](https://github.com/henrinormak/Heimdall) - Heimdall is a wrapper around the Security framework for simple encryption/decryption operations.
+
+## TeX 
+
+- [LNCS](https://github.com/latextemplates/LNCS) - Improved Lecture Notes in Computer Science (LNCS) template
 
 ## TypeScript 
 
