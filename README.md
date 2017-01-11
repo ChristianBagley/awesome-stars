@@ -727,7 +727,6 @@
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [widely](https://github.com/zeckalpha/widely) - Static Site as a Service using AWS S3
 - [logic-gates-circuits](https://github.com/praetore/logic-gates-circuits) - Simulating logic gates and circuits in Python
-- [porn_sieve](https://github.com/PornSieve/porn_sieve) - Improve your masturbation efficiency!
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [PSpider](https://github.com/xianhu/PSpider) - simple python spider frame, simple python crawler frame
 - [mitmAP](https://github.com/xdavidhu/mitmAP) - A python program to create a fake AP and sniff data.
