@@ -29,6 +29,7 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter notebook)
   - [KiCad](#kicad)
+  - [Liquid](#liquid)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Nim](#nim)
@@ -65,6 +66,8 @@
 
 ## Arduino 
 
+- [teensypwn](https://github.com/ChristianPapathanasiou/teensypwn) - Teensy 3.1 USB HID reverse shell for Mac
+- [TeensyKey](https://github.com/sanghakchun/TeensyKey) - Code for a Teensy-based password vault
 - [Brutal](https://github.com/Screetsec/Brutal) - Payload for teensy like a rubber ducky but the syntax is different. this Human interfaes device ( HID attacks ). Penetration With Teensy  . Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device ( Payload Teensy )
 - [usbdriveby](https://github.com/samyk/usbdriveby) - USBdriveby exploits the trust of USB devices by emulating an HID keyboard and mouse, installing a firewall-evading backdoor, and rerouting DNS within seconds of plugging it in
 - [trinkey](https://github.com/atomkemp/trinkey) - The 32bit, Trinket based, 2 x password keeper.
@@ -75,7 +78,9 @@
 
 ## C 
 
-- [ugtrain](https://github.com/ugtrain/ugtrain) - The Universal Elite Game Trainer for CLI (best Linux game trainer)
+- [nvc](https://github.com/nickg/nvc) - VHDL compiler and simulator
+- [mruby](https://github.com/mruby/mruby) - Lightweight Ruby
+- [ugtrain](https://github.com/ugtrain/ugtrain) - The Universal Elite Game Trainer for CLI (Linux game trainer research project)
 - [macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for Mac OS X
 - [bughunt](https://github.com/srcclr/bughunt) - A weekly challenge where we share some code and you find a bug in it.
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
@@ -88,7 +93,7 @@
 - [kext](https://github.com/osxfuse/kext) - FUSE kernel extension
 - [HID](https://github.com/NicoHood/HID) - Bring enhanced HID functions to your Arduino!
 - [hardpass-sendHID](https://github.com/girst/hardpass-sendHID) - A hardware password manager, built around a Paspberry Pi Zero and passwordstore.org
-- [genpass](https://github.com/chilicuil/genpass) - stateless password generator
+- [genpass](https://github.com/javier-lopez/genpass) - stateless password generator
 - [mypass](https://github.com/anoma-/mypass) - Deterministic password generator
 - [odo](https://github.com/atomicobject/odo) - an atomic odometer for the command line
 - [thoughttreasure](https://github.com/eriktmueller/thoughttreasure) - ThoughtTreasure commonsense knowledge base and architecture for natural language processing
@@ -125,6 +130,7 @@
 
 ## C++ 
 
+- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [zcash](https://github.com/zcash/zcash) - zcash
 - [Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library
 - [demoncrypt](https://github.com/eijah/demoncrypt) - Believe in the Right to Share.  Secure, Anonymous, Free, Everywhere.  Welcome to the Future of File Sharing.
@@ -180,7 +186,6 @@
 
 ## Clojure 
 
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [memory-hole](https://github.com/yogthos/memory-hole) - Memory Hole is a support issue organizer application
 - [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 - [nvalt-proto](https://github.com/Conaws/nvalt-proto) - An example of using markdown files and nValt to outline erector set style maps of knowledge
@@ -188,6 +193,7 @@
 
 ## CoffeeScript 
 
+- [tsushin](https://github.com/louixs/tsushin) - Übersicht widget : Dynamically updating line chart that shows total uploaded and downloaded data being transferred to your Mac in kB. Heavily inspired by the work of Dion Munk -  network-throughput
 - [syno](https://github.com/kwent/syno) - Simple Node.js wrapper and CLI for Synology  DSM REST API 5.x and 6.x.
 - [objc2rubymotion](https://github.com/bensheldon/objc2rubymotion) - convert objective-c code to rubymotion
 - [tent-admin](https://github.com/tent/tent-admin) - Admin app for Tent
@@ -247,8 +253,7 @@
 
 ## GCC Machine Description 
 
-- [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - :fire: All of the resources for Learning About Swift
-- [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices
+- [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education) - :fire: Learn some fucking Swift
 
 ## Go 
 
@@ -285,7 +290,7 @@
 - [acme](https://github.com/hlandau/acme) - :lock: acmetool, an automatic certificate acquisition tool for ACME (Let's Encrypt)
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [pinboard](https://github.com/umahmood/pinboard) - Pinboard a Go library which uses the Pinboard API to interact programatically with your bookmarks, notes and other Pinboard data.
-- [inbucket](https://github.com/jhillyerd/inbucket) - Inbucket: disposable webmail server (similar to Mailinator) with built in SMTP, POP3, REST servers
+- [inbucket](https://github.com/jhillyerd/inbucket) - Inbucket: disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers
 
 ## HCL 
 
@@ -293,6 +298,8 @@
 
 ## HTML 
 
+- [dev-bookmarks](https://github.com/vbwx/dev-bookmarks) - A curated collection of development bookmarks
+- [polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit) - A starting point for Polymer 1.0 apps
 - [Truthcoin](https://github.com/psztorc/Truthcoin) - Trustless and Decentralized Bitcoin Prediction Marketplace
 - [Elmsmith](https://github.com/mdgriffith/Elmsmith) - A Static Site Generator in Elm
 - [os-agreement-bot](https://github.com/ai-bots/os-agreement-bot) - Open Source agreement bot
@@ -312,7 +319,7 @@
 - [web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) - Learn basics of web design in 4 minutes
 - [do-install-button](https://github.com/seven1m/do-install-button) - experimental installer for getting apps running quickly on DigitalOcean
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [gitmoney](https://github.com/gitmoneybot/gitmoney) - A platform designed to help people work from anywhere and get paid bitcoin.
+- [gitmoney](https://github.com/dcdt/gitmoney) - A platform designed to help people work from anywhere and get paid bitcoin.
 - [nofussbm](https://github.com/mapio/nofussbm) - No Fuss Bookmarks
 - [Redacted-Font](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum.
 - [operationcode](https://github.com/OperationCode/operationcode) - Our open source website. We're on a mission to help the military community learn software development, enter the tech industry, and code the future.
@@ -324,10 +331,9 @@
 - [keyczar](https://github.com/google/keyczar) - Easy-to-use crypto toolkit
 - [tiddlywiki-dropbox-saver](https://github.com/brooksn/tiddlywiki-dropbox-saver) - TiddlyWiki5 Dropbox saver
 - [wpull](https://github.com/chfoo/wpull) - Wget-compatible web downloader and crawler.
-- [streisand](https://github.com/jlund/streisand) - Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [gistnote.github.io](https://github.com/gistnote/gistnote.github.io) - Evernote like Gist editor
 - [opsec-notes](https://github.com/straightfromtheunderground/opsec-notes) - OPSEC related notes from various sources
-- [codelf](https://github.com/unbug/codelf) - Organize your GitHub stars and repositories.Search over projects from GitHub, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project to find real-world usage variable names
+- [codelf](https://github.com/unbug/codelf) - Best GitHub stars, repositories tagger and organizer. Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names
 
 ## Haskell 
 
@@ -360,10 +366,16 @@
 
 ## JavaScript 
 
+- [cobweb](https://github.com/stewartmckee/cobweb) - Web crawler with very flexible crawling options.  Can either use standalone or can be used with resque to perform clustered crawls.
+- [deep-autofill-chrome-extension](https://github.com/s-a/deep-autofill-chrome-extension) - ✒️ Auto fill out forms done right.
+- [SetiUI-Icons-Sublime](https://github.com/mrmartineau/SetiUI-Icons-Sublime) - Seti UI icons for any ST3 theme
+- [prose-js](https://github.com/gabrielprc/prose-js) - Natural language-to-pseudocode compiler
+- [webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
+- [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [chrome-extension-temporary-email](https://github.com/denizdogan/chrome-extension-temporary-email) - Lets you quickly create a temporary email address
 - [Easy-disposable-email-address](https://github.com/el-dander/Easy-disposable-email-address) - Chrome extension to make using disposable email addresses easy
 - [Gmail-Unsubscriber-Chrome-Extension](https://github.com/schx2/Gmail-Unsubscriber-Chrome-Extension) - 
-- [TrackMeNot](https://github.com/vtoubiana/TrackMeNot) - 
+- [TrackMeNot](https://github.com/vtoubiana/TrackMeNot) - An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile(s) and registers your discontent with surreptitious tracking.
 - [unsubscribe-gmail](https://github.com/labnol/unsubscribe-gmail) - Gmail Unsubscribe is written in Google Apps Script to replace Unroll.me for unsubscribing from bulk email. See https://ctrlq.org for more Google Scripts.
 - [ScriptCraft](https://github.com/walterhiggins/ScriptCraft) - Write Minecraft Plugins in JavaScript.
 - [syno_download_ext](https://github.com/Olric86/syno_download_ext) - A Chrome extesion that allows remote adding of downloads to your Synology Nas Download station. It also let you simply add downloaded torrents from Premiumize.me to your Synology Nas.
@@ -406,7 +418,6 @@
 - [svg-sprite](https://github.com/jkphl/svg-sprite) - SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g. CSS, Sass, LESS, Stylus, etc.)
 - [tutorial-scripts](https://github.com/screeps/tutorial-scripts) - Ready to use code examples from the Screeps tutorial
 - [screeps-ai](https://github.com/beije/screeps-ai) - My AI for the game screeps
-- [screeps.behaviour-action-pattern](https://github.com/ScreepsOCS/screeps.behaviour-action-pattern) - Behaviour-Action Pattern for Screeps Game @ https://screeps.com/
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [rodeo](https://github.com/yhat/rodeo) - A data science IDE for Python
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
@@ -532,6 +543,10 @@
 - [usbarmory](https://github.com/inversepath/usbarmory) - USB armory: open source flash-drive-sized computer
 - [memtype](https://github.com/jim17/memtype) - Memtype -- Open Hardware Password & Data Manager
 
+## Liquid 
+
+- [Concrete](https://github.com/Elkfox/Concrete) - Concrete Shopify Theme Framework
+
 ## Lua 
 
 - [lgsm-gamedata](https://github.com/jaredballou/lgsm-gamedata) - Gamedata files for my LGSM fork
@@ -541,6 +556,7 @@
 
 ## Makefile 
 
+- [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing. The project is moved to http://opendir.io
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
 - [scaleway-golang](https://github.com/scaleway-community/scaleway-golang) - :minidisc: Official Golang image on Scaleway
 
@@ -573,6 +589,7 @@
 
 ## Objective-C 
 
+- [keypad-layout](https://github.com/janten/keypad-layout) - Control window layout using Ctrl + Numeric Keypad on macOS
 - [QuickNotes](https://github.com/mertdumenci/QuickNotes) - A tiny menubar app for fast Notes.app access
 - [XCSwiftr](https://github.com/dzenbot/XCSwiftr) - An Xcode Plugin to convert Objective-C to Swift
 - [HexFiend](https://github.com/ridiculousfish/HexFiend) - A fast and clever hex editor for Mac OS X
@@ -618,12 +635,18 @@
 
 ## Objective-C++ 
 
-- [textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for OS X 10.8+
+- [textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for OS X 10.9+
 - [Rust-BBEdit](https://github.com/ogham/Rust-BBEdit) - Rust language module for BBEdit
 - [neovim-dot-app](https://github.com/rogual/neovim-dot-app) - Mac OS X GUI for Neovim
 
 ## Others 
 
+- [writing-tools](https://github.com/heitortsergent/writing-tools) - 🗒 A list of tools to improve your writing
+- [awesome-shopify](https://github.com/julionc/awesome-shopify) - A curated list of awesome Shopify resources, libraries and open source projects.
+- [udacity-nanodegrees](https://github.com/mikesprague/udacity-nanodegrees) - :mortar_board: List of all Udacity Nanodegree programs with links to the free courses in their curricula
+- [public_curriculum](https://github.com/CodePlatoon/public_curriculum) - Open-source coding bootcamp curriculum for military veterans
+- [awesome-ecommerce-stack](https://github.com/nparsons08/awesome-ecommerce-stack) - Popular marketing tools and add-ons used by 10,000+ of the top e-commerce stores. 💰
+- [awesome-MATLAB](https://github.com/mikecroucher/awesome-MATLAB) - A curated list of awesome MATLAB toolboxes, applications, software and resources.
 - [awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
 - [awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - A curated list of awesome neuroscience libraries, software and any content related to the domain.
 - [awesome-matlab](https://github.com/uhub/awesome-matlab) - A curated list of awesome Matlab frameworks, libraries and software.
@@ -631,7 +654,6 @@
 - [awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [ukrainian-phonetic-keylayout-mac](https://github.com/sunabozu/ukrainian-phonetic-keylayout-mac) - A Ukrainian phonetic keyboard layout for Mac OS
 - [citizen-science](https://github.com/dylanrees/citizen-science) - 🔬 A repository of resources related to citizen, community-based and/or non-institutional science
-- [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - :star2: Awesome (free) web apps that work without login
 - [insurgency-data](https://github.com/jaredballou/insurgency-data) - 
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources
 - [bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
@@ -663,6 +685,7 @@
 - [awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
 - [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [Dropbox-Paper-Mac](https://github.com/mituoh/Dropbox-Paper-Mac) - Mac app wrapping Dropbox Paper for desktop
+- [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices
 - [what-do-you-call-this-in-ruby](https://github.com/JuanitoFatas/what-do-you-call-this-in-ruby) - Solving the second hard problem in Computer Science.
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [learning-devtools](https://github.com/andersoonweb/learning-devtools) - :books: A collection of articles, screencast, talks, courses and more. All this to enhance their knowledge about devtools chrome.
@@ -688,7 +711,7 @@
 - [CS-Literature-of-the-Day](https://github.com/tylertreat/CS-Literature-of-the-Day) - A curated list of computer science literature, updated daily.
 - [cs-interview-guide](https://github.com/schmatz/cs-interview-guide) - A short guide on preparing for computer science interviews
 - [computer-science](https://github.com/open-source-society/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
-- [free-programming-books](https://github.com/vhf/free-programming-books) - :books: Freely available programming books
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 - [elixir-getting-started](https://github.com/potatogopher/elixir-getting-started) - PDF, MOBI, EPUB documents for Elixir's Getting Started tutorial.
@@ -731,13 +754,12 @@
 - [awesome-ruby](https://github.com/sdogruyol/awesome-ruby) - A curated list of awesome Ruby frameworks, libraries and resources. Inspired by awesome-php & awesome-python.
 - [Resources-for-learning-Hacking](https://github.com/faizann24/Resources-for-learning-Hacking) - All the resources I could find for learning Ethical Hacking and penetration testing.
 - [LightPaper](https://github.com/42Squares/LightPaper) - LightPaper for OSX Support and Documentation
-- [Applescript](https://github.com/fuxialexander/Applescript) - Home-made script for automate your life :)
+- [Applescript](https://github.com/fuxialexander/Applescript) - Home-made script for automating your life :)
 - [digitalocean-riak-cs-example](https://github.com/leifcr/digitalocean-riak-cs-example) - 
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [TextFlow](https://github.com/vmdanilov/TextFlow) - Automator workflows for text manipulation in every OS X app
 - [awesome-dart](https://github.com/yissachar/awesome-dart) - A curated list of awesome Dart frameworks, libraries, and software
 - [taskpaperscripts](https://github.com/tamvodopad/taskpaperscripts) - A collection of scripts used in my Taskpaper 3 workflow
-- [TeachCraft-Server](https://github.com/teachthenet/TeachCraft-Server) - Run your own server for the TeachCraft-Challenges
 - [alfred-dropshare-upload-workflow](https://github.com/flegfleg/alfred-dropshare-upload-workflow) - Uploads files using Dropshare Mac App
 - [secure-email](https://github.com/OpenTechFund/secure-email) - Overview of projects working on next-generation secure email.
 - [DevopsWiki](https://github.com/Leo-G/DevopsWiki) - A wiki of Devops Tools, Tutorials and Scripts
@@ -789,6 +811,7 @@
 
 ## PHP 
 
+- [weshouldtryit.com](https://github.com/weshouldtryit/weshouldtryit.com) - Source code of weshouldtryit.com
 - [insurgency-tools](https://github.com/jaredballou/insurgency-tools) - 
 - [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.
 - [HRCloud2](https://github.com/zelon88/HRCloud2) - A full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool & More!
@@ -824,6 +847,26 @@
 
 ## Python 
 
+- [url-shortener](https://github.com/ymattw/url-shortener) - An Url-shortener API
+- [ASCII_DNA_Translator](https://github.com/michaelting/ASCII_DNA_Translator) - DNA as an information storage medium using either 4-base codon or binary representations of 256-ASCII
+- [termtrack](https://github.com/trehn/termtrack) - Track satellites in your terminal
+- [alfred-drive-workflow](https://github.com/azai91/alfred-drive-workflow) - Alfred workflow to search google drive
+- [viper](https://github.com/ethereum/viper) - New experimental programming language
+- [Terminality](https://github.com/spywhere/Terminality) - A Sublime Text 3 Plugin for Sublime Text's Internal Console
+- [WebHubBot](https://github.com/xiyouMc/WebHubBot) - Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.
+- [scrapple](https://github.com/AlexMathew/scrapple) - A framework for creating semi-automatic web content extractors
+- [scrapybook](https://github.com/scalingexcellence/scrapybook) - Scrapy Book Code
+- [spiderBet](https://github.com/amsimoes/spiderBet) - Scrapy spiders to crawl daily betting tips from website, automatically uploading to google sheets.
+- [human_computable_hash](https://github.com/ajaech/human_computable_hash) - Implementation of Blum's Human Computable Machine Unbreakable Hash
+- [pythonVSCode](https://github.com/DonJayamanne/pythonVSCode) - Cross platform editing, debugging, linting, testing (and more) Python (2.7 to 3.6) code (including Jupyter support) using Visual Studio Code
+- [SublimeWritingStyle](https://github.com/thedataking/SublimeWritingStyle) - Improve your writing style with this Sublime Text package
+- [PlagiarismChecker](https://github.com/ryan-kearns/PlagiarismChecker) - A command-line program that performs plagiarism detection using a N-tuple comparison algorithm allowing for synonyms in the text.
+- [mit-ocw-dl](https://github.com/meetshah1995/mit-ocw-dl) - Download all video lectures from a MIT-OCW course with a single command.
+- [quotesbot](https://github.com/scrapy/quotesbot) - This is a sample Scrapy project for educational purposes
+- [pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
+- [a-file-icon](https://github.com/ihodev/a-file-icon) - Sublime file-specific icons for improved visual grepping
+- [proselint](https://github.com/amperser/proselint) - A linter for prose.
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [domaincli](https://github.com/ChristianBagley/domaincli) - A simple command-line interface for registering domain names
 - [StudyBlueHack](https://github.com/OnlyWeiOut/StudyBlueHack) - A simple program that can be used to bypass Studyblue's method of hiding index card from poor college students
 - [AutoUnsubscriber](https://github.com/adsnash/AutoUnsubscriber) - A python script to unsubscribe from junk email and clear out your inbox
@@ -832,7 +875,7 @@
 - [pk](https://github.com/alexrd/pk) - Simple pharmacokinetics script in Python
 - [geeks-pdf](https://github.com/dufferzafar/geeks-pdf) - PDF versions of Geeks for Geeks articles. Compiled into book form.
 - [Infoga](https://github.com/m4ll0k/Infoga) - Infoga - Email Information Gathering
-- [Buku](https://github.com/jarun/Buku) - Highly delicious bookmark manager. Your mini web!
+- [Buku](https://github.com/jarun/Buku) - :bookmark: Highly delicious bookmark manager. Your mini web!
 - [logtivly-alfred](https://github.com/lobolabs/logtivly-alfred) - 
 - [py_liwc](https://github.com/alex-mcleod/py_liwc) - A python implementation of the LIWC program (http://www.liwc.net/).
 - [awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
@@ -849,7 +892,7 @@
 - [Python-Robocode](https://github.com/turkishviking/Python-Robocode) - A Fork of Robocode for python programming
 - [tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
-- [ergonomica](https://github.com/ergonomica/ergonomica) - Ergonomica is a cross-platform shell language, implemented in Python. Ergonomica aims to modernize the terminal, in an easily-extensible and usable language, independent of the OS on which it runs, through existing core utilities such as the os and shutil packages.
+- [ergonomica](https://github.com/ergonomica/ergonomica) - A cross-platform modern shell.
 - [python-ruby](https://github.com/mjhea0/python-ruby) - Should I Learn Python or Ruby?
 - [scavenger](https://github.com/aehuynh/scavenger) - A Python full text search and indexing library
 - [build-app-with-python-antitextbook](https://github.com/thewhitetulip/build-app-with-python-antitextbook) - Aims to teach Python3 by example
@@ -899,6 +942,7 @@
 - [pyaxel](https://github.com/sivel/pyaxel) - Multithreaded Download accelerator with resume support implemented in python
 - [downloadAccelerator](https://github.com/dro248/downloadAccelerator) - A little, threaded download accelerator written in Python.
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of interesting open source projects written in С, C++, Clojure, Lisp (Common/Emacs), Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [widely](https://github.com/zeckalpha/widely) - Static Site as a Service using AWS S3
 - [logic-gates-circuits](https://github.com/praetore/logic-gates-circuits) - Simulating logic gates and circuits in Python
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -1034,6 +1078,8 @@
 
 ## Ruby 
 
+- [Ruby-Plagiarism-Checker](https://github.com/Copyleaks/Ruby-Plagiarism-Checker) - Copyleaks detects online plagiarism and checks content originality. Use Copyleaks to know if your content has been used online. This example in Ruby shows how to integrate with the Copyleaks cloud to search for copyright infringement.
+- [sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client (mailing list: supmua@googlegroups.com)
 - [rubyretriever](https://github.com/joenorton/rubyretriever) - Asynchronous Web Crawler & Scraper
 - [spidr](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 - [wombat](https://github.com/felipecsl/wombat) - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
@@ -1083,7 +1129,7 @@
 - [hr-til](https://github.com/hashrocket/hr-til) - Today I Learned
 - [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [mac-osx-fixes](https://github.com/SteveBenner/mac-osx-fixes) - Run-once Ruby solutions to common problems plaguing Mac OS X
-- [markdownlint](https://github.com/mivok/markdownlint) - Markdown lint tool
+- [markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
 - [fieldbook-sdk](https://github.com/bolak/fieldbook-sdk) - API Wrapper for Fieldbook in Ruby
 - [treat](https://github.com/louismullie/treat) - Natural language processing framework for Ruby.
 - [tarkin-client](https://github.com/grych/tarkin-client) - Gem client and command line tool for Tarkin Team Password Manager
@@ -1113,11 +1159,11 @@
 - [exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
 - [imag](https://github.com/matthiasbeyer/imag) - imag - Text based personal information management suite
 - [limonite](https://github.com/qmx/limonite) - 
-- [rooster](https://github.com/conradkleinespel/rooster) - A simple password manager for geeks.
+- [rooster](https://github.com/conradkdotcom/rooster) - A simple password manager for geeks.
 - [rustix](https://github.com/dezgeg/rustix) - Unix command line tools in Rust.
 - [theca](https://github.com/rolandshoemaker/theca) - a simple, fully featured command line note taking tool written in Rust
 - [notes](https://github.com/m110/notes) - Personal journal in terminal.
-- [awesome-rust](https://github.com/kud1ing/awesome-rust) - A curated list of Rust code and resources.
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [xi-editor](https://github.com/google/xi-editor) - A modern editor with a backend written in Rust.
 - [rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [xi_glium](https://github.com/potocpav/xi_glium) - Glium-based front-end to the xi editor
@@ -1131,10 +1177,14 @@
 
 ## Shell 
 
+- [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
+- [dehydrated](https://github.com/lukas2511/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
+- [Seti_JetBrains](https://github.com/zchee/Seti_JetBrains) - Seti_UI and Seti_UX themes port for JetBrains' all IDE
 - [awesome-cheatsheet](https://github.com/vaputa/awesome-cheatsheet) - A collection of awesome cheatsheets. Including git, python, c/c++, frontend, matlab, markdown, etc.
 - [dirtyisp](https://github.com/defested/dirtyisp) - A tool to obfuscate internet history by visiting many random websites
 - [osxfortress](https://github.com/essandess/osxfortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile)
 - [where](https://github.com/ttscoff/where) - 
+- [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - :star2: Awesome (free) web apps that work without login
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [secshare](https://github.com/dacav/secshare) - Securely share files in your team
 - [dotfiles](https://github.com/Prajjwal/dotfiles) - Configuration for my system(s).
@@ -1153,7 +1203,7 @@
 - [algo](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN in the cloud
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [aliasme](https://github.com/Jintin/aliasme) - A shell script to organize your alias as path shortcut in command line.
-- [laptop](https://github.com/thoughtbot/laptop) - A shell script which turns your macOS laptop into an awesome web development machine.
+- [laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
 - [devicons-shell](https://github.com/ryanoasis/devicons-shell) - :symbols: adds font icons (glyphs ★♨☢) to filetypes via bash (faux ls with icons)
 - [learnvimscriptthehardway](https://github.com/sjl/learnvimscriptthehardway) - 
 - [QuickQuestion](https://github.com/ttscoff/QuickQuestion) - A simple, text-based system for building an easily-searchable knowlegebase on OS X. CLI, LaunchBar and Alfred included.
@@ -1177,6 +1227,7 @@
 - [objc-run](https://github.com/iljaiwas/objc-run) - A shell script that makes it easy to use Objective-C files for shell script-like tasks.
 - [Install](https://github.com/Zyber17/Install) - A simple-script to help get my Mac back to its normal state after a clean install
 - [dotfiles](https://github.com/troyxmccall/dotfiles) - hacker and developer defaults for OSX El Capitan
+- [TeachCraft-Server](https://github.com/teachthenet/TeachCraft-Server) - Run your own server for the TeachCraft-Challenges
 - [mac-os-self-destruct](https://github.com/tdlm/mac-os-self-destruct) - Deletes files/folders in macOS based on a time specified in tags.
 - [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [TextBar-Recipes](https://github.com/richie5um/TextBar-Recipes) - TextBar Recipes
@@ -1189,8 +1240,9 @@
 - [image-tools](https://github.com/scaleway/image-tools) - :nut_and_bolt: Scripts used to create Images on Scaleway - https://github.com/scaleway-community
 - [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
 - [arch-install-surface3](https://github.com/staticinteger/arch-install-surface3) - The commands I use to install arch linux on my Surface (not pro) 3
-- [acme.sh](https://github.com/Neilpang/acme.sh) - An ACME Shell script, an acme client alternative to certbot : acme.sh
+- [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [URLextractor](https://github.com/eschultze/URLextractor) - Information gathering & website reconnaissance
+- [streisand](https://github.com/jlund/streisand) - Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [bash-boilerplate](https://github.com/alphabetum/bash-boilerplate) - A collection of example bash scripts that can be used as starting points.
 - [shell-scripts](https://github.com/natelandau/shell-scripts) - Shell scripting utility functions and a bash script boilerplate template
 - [dev.env](https://github.com/huytd/dev.env) - :ghost: Zero Setup Development Environment without Docker or Vagrant
@@ -1207,6 +1259,11 @@
 
 ## Swift 
 
+- [HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for hackingwithswift.com
+- [Swift-Plagiarism-Checker](https://github.com/Copyleaks/Swift-Plagiarism-Checker) - Copyleaks detects online plagiarism and checks content originality. Use Copyleaks to know if your content has been used online. This example in Swift shows how to integrate with the Copyleaks cloud to check for plagiarism.
+- [TouchBarLauncher](https://github.com/zats/TouchBarLauncher) - Touch Bar simulator launcher. Requires Xcode 8.1 and macOS 10.12.1
+- [touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
+- [scratchpad](https://github.com/mminer/scratchpad) - Criminally simple scratchpad for macOS.
 - [Quickeys](https://github.com/alexrosenfeld10/Quickeys) - A mac menu bar app that provides note taking functionality though a quick dropdown menu.
 - [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [LeakEye](https://github.com/zixun/LeakEye) - LeakEye is a memory leak monitor write by swift inspired by PLeakSniffer
@@ -1218,7 +1275,7 @@
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A small macOS app that acts as a system cleaner (logs, cache, ...)
 - [trcl](https://github.com/kzkv/trcl) - Multiple time zones clock for macOS status bar
 - [vimr](https://github.com/qvacua/vimr) - Project VimR — Refined Neovim experience for macOS
-- [Guaka](https://github.com/oarrabi/Guaka) - The smartest and most beautiful (POSIX compliant) Command line framework for Swift 🤖
+- [Guaka](https://github.com/nsomar/Guaka) - The smartest and most beautiful (POSIX compliant) Command line framework for Swift 🤖
 - [practice-swift](https://github.com/domenicosolazzo/practice-swift) - Learning a new language: SWIFT
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. Feel free to contribute!
 - [iina](https://github.com/lhc70000/iina) - The modern video player for macOS.
@@ -1261,6 +1318,8 @@
 
 ## Vim script 
 
+- [ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine
+- [VimBox](https://github.com/jordwalke/VimBox) - Simple, Modern MacVim Configuration
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
 - [vimper](https://github.com/lukaszb/vimper) - vim snake - automates your vim environment setup
 - [vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
